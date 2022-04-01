@@ -3,6 +3,7 @@
     "displayName": "doom-emacs-theme",
     "description": "doom emacs default color theme",
     "version": "0.0.1",
+    "icon": "https://github.com/SteveSevetS/doom-emacs-theme/blob/main/doom.PNG",
     "engines": {
         "vscode": "^1.46.0"
     },
