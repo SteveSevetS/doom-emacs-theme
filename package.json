@@ -1,0 +1,21 @@
+{
+    "name": "doom-emacs-theme",
+    "displayName": "doom-emacs-theme",
+    "description": "doom emacs default color theme",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.46.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Doom Emacs",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Doom Emacs-color-theme.json"
+            }
+        ]
+    }
+}
