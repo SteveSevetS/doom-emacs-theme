@@ -172,6 +172,7 @@
                 "meta.preprocessor",
             ],
             "settings": {
+                "foreground": "#51afef",
             }
         },
         {
@@ -208,7 +209,6 @@
             ],
             "settings": {
                 "foreground": "#bbc2cf",
-                "fontStyle": "underline"
             }
         },
         {
@@ -477,7 +477,6 @@
                 "source.js constant.other.object.key.js string.unquoted.label.js"
             ],
             "settings": {
-                "fontStyle": "italic",
                 "foreground": "#ff6c6b"
             }
         },
@@ -543,7 +542,6 @@
                 "markup.italic"
             ],
             "settings": {
-                "fontStyle": "italic"
             }
         },
         {
