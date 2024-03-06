@@ -75,7 +75,7 @@
                 "string.quoted.docstring.multi.python punctuation.definition.string.end.python"
             ],
             "settings": {
-                "foreground": "#5B6268"
+                "foreground": "#A9A9A9"
             }
         },
         {
